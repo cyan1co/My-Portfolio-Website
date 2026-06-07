@@ -21,7 +21,7 @@ function Projects() {
       description:
         "An expense management dashboard with categories, charts and analytics.",
       tech: ["React", "Tailwind CSS", "Recharts"],
-      github: "https://github.com/cyan1co/Expense-Tracker",
+      github: "https://github.com/cyan1co/React-Expense-Tracker",
       demo: "https://react-expense-tracker-phi-beryl.vercel.app"
     },
 
