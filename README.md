@@ -45,6 +45,10 @@ Expense management application with data visualization and analytics features.
 
 Interactive dashboard demonstrating business intelligence and data visualization skills.
 
+## Live
+
+https://khushi-limbu-portfolio.vercel.app
+
 ## Author
 
 Khushi Limbu
